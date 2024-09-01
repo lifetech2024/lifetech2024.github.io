@@ -2,5 +2,12 @@
     "title":"南川日志",
     "subTitle":"Blog description",
     "avatarUrl":"https://blog.southz.top/picture.jpg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "homeUrl":"https://log.southz.top",
+    "faviconUrl":"https://blog.southz.top/favicon.ico",
+    "startSite":"09/01/2024",
+    "onePageListNum":15,
+    "i18n":"CN",
+    "UTC":8,
+    "bottomText":"转载请注明出处",
 }
